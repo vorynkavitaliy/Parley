@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vorynkavitaliy/js-video-parley.git"
+    "url": "git+https://github.com/vorynkavitaliy/Parley.git"
   },
   "keywords": [
     "video",
     "parley",
     "meet"
   ],
-  "author": " <vorynkavetal@gmail.com>",
+  "author": " Vitalii V. <vorynkavetal@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vorynkavitaliy/js-video-parley/issues"
+    "url": "https://github.com/vorynkavitaliy/Parley/issues"
   },
-  "homepage": "https://github.com/vorynkavitaliy/js-video-parley#readme",
+  "homepage": "https://github.com/vorynkavitaliy/Parley#readme",
   "devDependencies": {
     "@babel/core": "^7.14.3",
     "@babel/plugin-proposal-class-properties": "^7.13.0",

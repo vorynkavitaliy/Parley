@@ -124,7 +124,7 @@ module.exports = {
   context: path.resolve(__dirname, 'src'),
   mode: 'development',
   entry: {
-    index: ['@babel/polyfill', './index.js'],
+    index: ['@babel/polyfill', './app.js'],
   },
   output: {
     filename: `${PATHS.js}/${filename('js')}`,
