@@ -1,1 +1,1 @@
-# js-video-parley
+# parley
